@@ -9,8 +9,8 @@ import smtplib
 import random
 PLACEHOLDER = "[NAME]"
 
-my_email = "MoyTestoviyEmail@gmail.com"
-password = "Privet12345"
+my_email = "xxxxxxxx@gmail.com"
+password = "xxxxxxxx"
 
 # CHECKING A DAY AND A MONTH TODAY:
 today = dt.datetime.now()
